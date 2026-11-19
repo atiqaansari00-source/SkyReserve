@@ -4,6 +4,12 @@ SkyReserve is a responsive airline booking dashboard built with **React.js**. It
 
 The application supports two aircraft seating configurations: **3–2** and **2–3–2**.
 
+## Live Demo
+
+**Live Application:** https://skyreserve-eta.vercel.app/
+
+**GitHub Repository:** https://github.com/atiqaansari00-source/SkyReserve
+
 ## Features
 
 ### 1. Passenger Management
@@ -30,6 +36,7 @@ The application supports two aircraft seating configurations: **3–2** and **2�
 | Extra Legroom | ₹350 |
 
 ### 4. Meal Selection
+
 Passengers can independently select or remove their meals.
 
 | Meal Option | Price |
@@ -58,6 +65,8 @@ The dashboard is designed to work across desktop, tablet and mobile screen sizes
 - **Styling:** CSS3
 - **Icons:** Lucide React
 - **Development Tools:** ESLint, npm
+- **Deployment:** Vercel
+- **Version Control:** Git and GitHub
 
 ## Project Structure
 
@@ -104,7 +113,7 @@ SkyReserve/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/atiqaansari00-source/SkyReserve.git
 ```
 
 ### 2. Navigate to the project directory
@@ -188,10 +197,12 @@ The following checks were performed during development:
 
 ## Project Information
 
-**Project Name:** SkyReserve  
-**Project Type:** Frontend Web Application  
-**Framework:** React.js  
-**Purpose:** Flight Seat Selection & Passenger Management
+- **Project Name:** SkyReserve
+- **Project Type:** Frontend Web Application
+- **Framework:** React.js
+- **Purpose:** Flight Seat Selection & Passenger Management
+- **Deployment:** Vercel
+- **Backend:** Not required (uses mock data)
 
 The application uses mock flight, passenger, seat and meal data. No backend integration is required.
 
